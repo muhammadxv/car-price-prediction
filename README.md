@@ -6,7 +6,7 @@ It demonstrates a full machine learning pipeline: data cleaning, feature enginee
 
 I built this notebook as part of my data science portfolio to showcase skills in EDA, regression modeling, and model deployment readiness.
 
-
+Kaggle notebook: https://www.kaggle.com/code/aminumuhammad/used-car-price-prediction-ipynb
 #  Tools & Libraries
 
 Python (pandas, numpy, matplotlib, seaborn)
